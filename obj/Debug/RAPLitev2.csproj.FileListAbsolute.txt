@@ -1,0 +1,30 @@
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\bin\Debug\RAPLitev2.exe.config
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\bin\Debug\RAPLitev2.exe
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\bin\Debug\RAPLitev2.pdb
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.csproj.AssemblyReference.cache
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\MainWindow.g.cs
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\App.g.cs
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2_MarkupCompile.cache
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2_MarkupCompile.lref
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\MainWindow.baml
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.g.resources
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.Properties.Resources.resources
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.csproj.GenerateResource.cache
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.csproj.CoreCompileInputs.cache
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.exe
+C:\Users\mbamin\source\repos\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\bin\Debug\RAPLitev2.exe.config
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\bin\Debug\RAPLitev2.exe
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\bin\Debug\RAPLitev2.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\MainWindow.g.cs
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\App.g.cs
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2_MarkupCompile.cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2_MarkupCompile.lref
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\MainWindow.baml
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.g.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\obj\Debug\RAPLitev2.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\bin\Debug\MySql.Data.dll
+C:\Users\asus\Documents\Visual Studio 2015\Projects\RAPLitev2\RAPLitev2\bin\Debug\MySql.Data.xml
